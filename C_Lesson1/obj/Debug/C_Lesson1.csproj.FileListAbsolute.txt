@@ -1,0 +1,7 @@
+C:\Users\Samuel Siampi\Desktop\C# Basic\C_Lesson1\C_Lesson1\bin\Debug\C_Lesson1.exe.config
+C:\Users\Samuel Siampi\Desktop\C# Basic\C_Lesson1\C_Lesson1\bin\Debug\C_Lesson1.exe
+C:\Users\Samuel Siampi\Desktop\C# Basic\C_Lesson1\C_Lesson1\bin\Debug\C_Lesson1.pdb
+C:\Users\Samuel Siampi\Desktop\C# Basic\C_Lesson1\C_Lesson1\obj\Debug\C_Lesson1.csprojAssemblyReference.cache
+C:\Users\Samuel Siampi\Desktop\C# Basic\C_Lesson1\C_Lesson1\obj\Debug\C_Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Siampi\Desktop\C# Basic\C_Lesson1\C_Lesson1\obj\Debug\C_Lesson1.exe
+C:\Users\Samuel Siampi\Desktop\C# Basic\C_Lesson1\C_Lesson1\obj\Debug\C_Lesson1.pdb
